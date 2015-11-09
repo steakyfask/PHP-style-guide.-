@@ -2,6 +2,7 @@
 
 The style I follow when writing PHP. 
 
+Using opening and closing <?php ?> tags is a must!
 
 camelCase for variables and member variable. 
 
