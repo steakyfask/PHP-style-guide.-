@@ -16,14 +16,14 @@ Curly brackets for conditional statments such as if's while's and for's are writ
 
 Class's functions and methods are written whith the curly brace dropped to the next line like so... 
 
-  class MyClass 
-  {
+    class MyClass 
+    {
 
-      protected $var;
+        protected $var;
     
-      public function __construct() {
+        public function __construct() {
       
-      }
+        }
   
-  }
+    }
 
